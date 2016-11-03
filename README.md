@@ -45,6 +45,10 @@ See BitVisor manuals and documents for details.
   * Desktop environment: GNOME
   * Screen resolution: 1920 x 1200
 
+### Notes
+
+* DisasVisor is based on the source code of BitVisor that was obtained from the BitVisor repository on Oct 16, 2016.
+
 ### Resources
 
 * Yoshihiro Oyama, "An Implementation Scheme of a DisasterWarning Notification System Based on a Hypervisor", The 33th Annual JSSST Conference, Sendai, Japan, September 2016 (in Japanese).
