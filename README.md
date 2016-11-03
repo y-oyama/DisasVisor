@@ -11,6 +11,10 @@ message to DisasVisor.  DisasVisor receives messages from UDP 26666 port.  When 
 receives a message, it transforms the message into a disaster notification image and
 displays it on the computer screen.
 
+![Structure of DisasVisor](/picture/structure.jpg)
+
+![Screenshot of CentOS running on DisasVisor](/picture/screenshot-centos.jpg)
+
 ### How to build
 
 See BitVisor manuals and documents for details.
