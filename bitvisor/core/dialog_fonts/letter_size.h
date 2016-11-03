@@ -1,0 +1,2 @@
+#define LETTER_WIDTH 18
+#define LETTER_HEIGHT 36
