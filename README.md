@@ -52,6 +52,9 @@ See BitVisor manuals and documents for details.
 ### Notes
 
 * DisasVisor is based on the source code of BitVisor that was obtained from the BitVisor repository on Oct 16, 2016.
+* The current intermediate server for DisasVisor obtains disaster information from the [Hi-net](http://www.hinet.bosai.go.jp/?LANG=en) developed in [NIED](http://www.bosai.go.jp/e/).
+* The current version of DisasVisor is a research prototype.  Understand that DisasVisor still has some defects to be fixed and any data in the operating system running on DisasVisor may be lost at any moment.
+* Disclaimer of warranty: you understand and agree that if you download or otherwise obtain materials, information, products, software, programs, or services, you do so at your own discretion and risk and that you will be solely responsible for any damages that may result, including loss of data or damage to your computer system.
 
 ### Resources
 
