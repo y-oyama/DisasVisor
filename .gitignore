@@ -9,5 +9,4 @@ bitvisor.map
 .depends
 .flags
 .objects
-
-
+.boptions
