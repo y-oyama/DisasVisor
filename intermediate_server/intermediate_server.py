@@ -32,7 +32,7 @@ class MyHTMLParser(HTMLParser):
 argv = sys.argv
 argc = len(argv)
 if (argc != 3):
-    sys.stderr.write('Usage: %s disasvisor-client-ipaddr server-check-interval-in-second' % argv[0])
+    sys.stderr.write('Usage: %s disasvisor-client-ipaddr server-check-interval-in-second\n' % argv[0])
     quit()
 client_ipaddr = argv[1]
 period = int(argv[2])
