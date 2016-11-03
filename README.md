@@ -49,7 +49,7 @@ See BitVisor manuals and documents for details.
 
 * Yoshihiro Oyama, "An Implementation Scheme of a DisasterWarning Notification System Based on a Hypervisor", The 33th Annual JSSST Conference, Sendai, Japan, September 2016 (in Japanese).
 
-* Yoshihiro Oyama, "Disaster Warning Notification Using a Hypervisor", FIT2015, pp. 213-216, September 2015 (in Japanese).
+* Yoshihiro Oyama, "Disaster Warning Notification Using a Hypervisor", FIT2015, pp. 213-216, Matsuyama, Japan, September 2015 (in Japanese).
 
 * Yoshihiro Oyama, "A Hypervisor for Manipulating Guest Screens", In poster session in the 6th ACM SIGOPS Asia-Pacific Workshop on Systems (APSys 2015), Tokyo, Japan, July 2015.
 
