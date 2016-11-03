@@ -57,8 +57,8 @@ See BitVisor manuals and documents for details.
 
 * Yoshihiro Oyama, "An Implementation Scheme of a DisasterWarning Notification System Based on a Hypervisor", The 33th Annual JSSST Conference, Sendai, Japan, September 2016 (in Japanese).
 
-* Yoshihiro Oyama, "Disaster Warning Notification Using a Hypervisor", FIT2015, pp. 213-216, Matsuyama, Japan, September 2015 (in Japanese).
+* Yoshihiro Oyama, "Disaster Warning Notification Using a Hypervisor", FIT2015, pp. 213-216, Matsuyama, Japan, September 2015 (in Japanese). [Link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=153652&item_no=1&page_id=13&block_id=8)
 
-* Yoshihiro Oyama, "A Hypervisor for Manipulating Guest Screens", In poster session in the 6th ACM SIGOPS Asia-Pacific Workshop on Systems (APSys 2015), Tokyo, Japan, July 2015.
+* Yoshihiro Oyama, "A Hypervisor for Manipulating Guest Screens", In poster session in the 6th ACM SIGOPS Asia-Pacific Workshop on Systems (APSys 2015), Tokyo, Japan, July 2015. [PDF](http://www.sslab.ics.keio.ac.jp/apsys2015/assets/posters/4.pdf)
 
-* Yoshihiro Oyama, Natsuki Ogawa, Yudai Kawasaki, Kazuhiro Yamamoto, "ADvisor: A Hypervisor for Displaying Images on a Desktop", In Proceedings of the 2nd International Workshop on Computer Systems and Architectures (CSA '14), held in conjunction with the 2nd International Symposium on Computing and Networking (CANDAR 2014), pages 412-418, Shizuoka, Japan, December 2014. 
+* Yoshihiro Oyama, Natsuki Ogawa, Yudai Kawasaki, Kazuhiro Yamamoto, "ADvisor: A Hypervisor for Displaying Images on a Desktop", In Proceedings of the 2nd International Workshop on Computer Systems and Architectures (CSA '14), held in conjunction with the 2nd International Symposium on Computing and Networking (CANDAR 2014), pages 412-418, Shizuoka, Japan, December 2014. [Link](http://ieeexplore.ieee.org/document/7052219/?arnumber=7052219)
